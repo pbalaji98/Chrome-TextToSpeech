@@ -10,7 +10,7 @@
 	},
 	
 	"permissions": [
-		"ttsEngine"
+		"tts"
 	],
 
 	"tts_engine": {
